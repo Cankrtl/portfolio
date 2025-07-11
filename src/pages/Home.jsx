@@ -13,7 +13,7 @@ export function Home() {
       <section>
         <h1>I'm Can Kartal</h1>
         <h2>Junior Frontend developer</h2>
-        <p>Let's get in touch with your Freelance job offers.
+        <p>Contact me regarding your job postings
         </p>
       </section>
     </div>

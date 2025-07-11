@@ -56,7 +56,7 @@ export function Contact() {
       </footer>
 
       <button className="Btn-CV">
-        <a href="https://smallpdf.com/tr/result#r=850b53a1de7751bdbd57992b912dfd6f&t=extract" download="CanKartalcv.jpg">
+        <a href="./public/Can Kartal CV.pdf" download="CanKartalcv.pdf">
           Cv indir
         </a>
       </button>
